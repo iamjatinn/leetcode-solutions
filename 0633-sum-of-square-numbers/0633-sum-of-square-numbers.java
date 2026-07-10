@@ -1,11 +1,17 @@
 class Solution {
     public boolean judgeSquareSum(int c) {
-        for (long a = 0; a * a <= c; a++) {   // Iterate through all possible values of `a`
-            double b = Math.sqrt(c - a * a);  // Compute `b` as the square root of `c - a^2`
-            if (b == (int)b) {                 // Check if `b` is an integer
-                return true;                   // If `b` is an integer, return true
+        for (int divisor = 2; divisor * divisor <= c; divisor++) {
+            if (c % divisor == 0) {
+                int exponentCount = 0;
+                while (c % divisor == 0) {
+                    exponentCount++;
+                    c /= divisor;
+                }
+                if (divisor % 4 == 3 && exponentCount % 2 != 0) {
+                    return false;
+                }
             }
         }
-        return false;                          // If no such pair `(a, b)` is found, return false
+        return c % 4 != 3;
     }
 }
