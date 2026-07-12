@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Math
 |  |
 | ------- |
@@ -29,9 +30,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamjatinn/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/iamjatinn/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamjatinn/leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/iamjatinn/leetcode-solutions/tree/master/0071-simplify-path) |
+| [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
