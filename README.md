@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [1929-concatenation-of-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1929-concatenation-of-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Recursion
 |  |
 | ------- |
