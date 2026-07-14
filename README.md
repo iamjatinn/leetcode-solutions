@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [1331-rank-transform-of-an-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Two Pointers
 |  |
 | ------- |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/iamjatinn/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +72,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
