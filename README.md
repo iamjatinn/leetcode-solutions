@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iamjatinn/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Binary Search
 |  |
 | ------- |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/iamjatinn/leetcode-solutions/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Divide and Conquer
 |  |
 | ------- |
