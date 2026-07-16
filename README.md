@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/iamjatinn/leetcode-solutions/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/iamjatinn/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
 ## Sorting
 |  |
@@ -108,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1732-find-the-highest-altitude](https://github.com/iamjatinn/leetcode-solutions/tree/master/1732-find-the-highest-altitude) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
