@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamjatinn/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
@@ -116,5 +117,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/iamjatinn/leetcode-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0445-add-two-numbers-ii](https://github.com/iamjatinn/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 <!---LeetCode Topics End-->
