@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/iamjatinn/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamjatinn/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Stack
 |  |
 | ------- |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
 | [0445-add-two-numbers-ii](https://github.com/iamjatinn/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
 | [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamjatinn/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -139,4 +141,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamjatinn/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
+## Greedy
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamjatinn/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamjatinn/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
