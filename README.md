@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
 | [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/iamjatinn/leetcode-solutions/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/iamjatinn/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/iamjatinn/leetcode-solutions/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/iamjatinn/leetcode-solutions/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Bit Manipulation
 |  |
 | ------- |
