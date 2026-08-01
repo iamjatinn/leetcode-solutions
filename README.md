@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1207-unique-number-of-occurrences](https://github.com/iamjatinn/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1260-shift-2d-grid](https://github.com/iamjatinn/leetcode-solutions/tree/master/1260-shift-2d-grid) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0445-add-two-numbers-ii](https://github.com/iamjatinn/leetcode-solutions/tree/master/0445-add-two-numbers-ii) |
+| [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/iamjatinn/leetcode-solutions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/iamjatinn/leetcode-solutions/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
+| [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 ## Sorting
 |  |
 | ------- |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/iamjatinn/leetcode-solutions/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Number Theory
 |  |
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/iamjatinn/leetcode-solutions/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
