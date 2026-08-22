@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/iamjatinn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0486-predict-the-winner](https://github.com/iamjatinn/leetcode-solutions/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/iamjatinn/leetcode-solutions/tree/master/0724-find-pivot-index) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/iamjatinn/leetcode-solutions/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/iamjatinn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/iamjatinn/leetcode-solutions/tree/master/0844-backspace-string-compare) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/iamjatinn/leetcode-solutions/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/iamjatinn/leetcode-solutions/tree/master/0069-sqrtx) |
 | [0162-find-peak-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0268-missing-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/iamjatinn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0633-sum-of-square-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0633-sum-of-square-numbers) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/iamjatinn/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/iamjatinn/leetcode-solutions/tree/master/3312-sorted-gcd-pair-queries) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0202-happy-number) |
 | [0268-missing-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/iamjatinn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1207-unique-number-of-occurrences](https://github.com/iamjatinn/leetcode-solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/iamjatinn/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
@@ -181,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/iamjatinn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/iamjatinn/leetcode-solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [1331-rank-transform-of-an-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
