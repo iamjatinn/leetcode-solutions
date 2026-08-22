@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/iamjatinn/leetcode-solutions/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/iamjatinn/leetcode-solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/iamjatinn/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/iamjatinn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/iamjatinn/leetcode-solutions/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0162-find-peak-element) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/iamjatinn/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/iamjatinn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/iamjatinn/leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/iamjatinn/leetcode-solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/iamjatinn/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/iamjatinn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/iamjatinn/leetcode-solutions/tree/master/0071-simplify-path) |
 | [0316-remove-duplicate-letters](https://github.com/iamjatinn/leetcode-solutions/tree/master/0316-remove-duplicate-letters) |
 | [0394-decode-string](https://github.com/iamjatinn/leetcode-solutions/tree/master/0394-decode-string) |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/iamjatinn/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/iamjatinn/leetcode-solutions/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/iamjatinn/leetcode-solutions/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/iamjatinn/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
